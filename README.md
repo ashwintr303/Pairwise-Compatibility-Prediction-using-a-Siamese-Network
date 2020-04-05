@@ -1,4 +1,5 @@
 # Pairwise-Compatibility-Prediction-using-a-Siamese-Network
+Pairwise compatibility prediction of polyvore outfits dataset using a Siamese model - EE599 CV Project
 
 ## Dataset description
 Polyvore Outﬁts is a real-world dataset created based on users’ preferences of outﬁt conﬁgurations on an online website named polyvore.com: items within the outﬁts that receive high-ratings are considered compatible and vice versa. It contains a total of 365,054 items and 68,306 outﬁts. The maximum number of items per outﬁt is 19. A visualization of an outﬁt is shown in Figure 1.
