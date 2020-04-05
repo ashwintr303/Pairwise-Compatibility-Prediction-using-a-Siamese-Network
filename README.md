@@ -2,6 +2,8 @@
 
 ## Dataset description
 Polyvore Outﬁts is a real-world dataset created based on users’ preferences of outﬁt conﬁgurations on an online website named polyvore.com: items within the outﬁts that receive high-ratings are considered compatible and vice versa. It contains a total of 365,054 items and 68,306 outﬁts. The maximum number of items per outﬁt is 19. A visualization of an outﬁt is shown in Figure 1.
+The images and json files are available at:
+https://drive.google.com/file/d/1ZCDRRh4wrYDq0O3FOptSlBpQFoe0zHTw/view?usp=sharing
 
 ## File description  
 1. dataloader.py: Data preprocessing and loading.  
